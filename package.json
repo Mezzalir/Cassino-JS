@@ -1,0 +1,14 @@
+{
+  "name": "projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Willian Mezzalira",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
